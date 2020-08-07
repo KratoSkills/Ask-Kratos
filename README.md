@@ -1,5 +1,5 @@
 # Ask-Kratos
-Here you may ask me for your problems.
+Here, you may ask me for your problems.
 # problem
 # problems
 # solution
